@@ -1,5 +1,5 @@
 # Андрей Муравьев | Andrey Muravyov
-
+<!--
 [🇷🇺 Русский](#readme-in-russian) | [🇬🇧 English](#readme-in-english)
 
 ---
@@ -50,7 +50,7 @@
 ---
 
 ## <a name="readme-in-english"></a> Hi, I'm Andrey Muravyov! 👋
-
+-->
 I am a second-year student at Peter the Great St. Petersburg Polytechnic University, specializing in radio engineering at the Institute of Electronics and Telecommunications.
 
 ### Skills and Experience
